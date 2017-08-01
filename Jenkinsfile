@@ -1,5 +1,5 @@
 node {
-  stage "fuck off" {
+  stage("fuck off") {
     echo "Hi!"
   }
 }
